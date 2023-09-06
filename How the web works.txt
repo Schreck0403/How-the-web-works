@@ -1,0 +1,9 @@
+1. HTTP controls how we get/send information to the server.
+2.URL is an internet address.
+3. DNS converts URLs into IP addresses.
+4. A query string is part of the URL. It is usually found at the end of the URL and starts with a ?.
+5. Post is used to send information to the server and Get is used to get infromation from the server.
+6. An HTTP request requests information from the server.
+7. An HTTP response is a responce from the server.
+8. An HTTP header provides information regarding a request or response. Some examples of a request header are Cookies and Host. Some examples of a response header are Cache Control and Content Type.
+9. When you type a URL in the browser the browser will concert the nme into an IP address, make a request to the IP address, the server then sends a response, the browser creates a DOM, and then the browsermakes HTTP requests and receives responses from the server.
